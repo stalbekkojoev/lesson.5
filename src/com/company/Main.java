@@ -18,7 +18,7 @@ public class Main {
     }
     public static Hero[] createHeroes(){
         Hero stalbek = new Hero(300,20,"оперкод");
-        Hero albert =new Hero(400,25);
+        Hero albert =new Hero(400,500);
         Hero adilet = new Hero(350,30);
         Hero[] geektech = {stalbek,albert,adilet};
         return geektech;
